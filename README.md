@@ -12,28 +12,6 @@ The back-end typically consists of a web server that receives requests from the 
 The back-end also deals with user authentication, security, and other server-side operations. It may involve components like databases, server software, application logic, and external services or APIs.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 2).
 Structural Tags:
   Structural tags define the overall structure and layout of the web page.
@@ -61,7 +39,7 @@ Form Tags:
 Table Tags:
   Table tags define tables to display tabular data.
   example: 
-    <table>
+    "<table>
       <tr>
          <th>Header 1</th>
          <th>Header 2</th>
@@ -70,18 +48,18 @@ Table Tags:
          <td>Data 1</td>
          <td>Data 2</td>
       </tr>
-    </table>
+    </table>"
 List Tags:
   List tags define ordered (numbered) and unordered (bullet) lists.
   example: 
-<ul>
+"<ul>
   <li>Item 1</li>
   <li>Item 2</li>
 </ul>
 <ol>
   <li>Item 1</li>
   <li>Item 2</li>
-</ol>
+</ol>"
 
 
 3).
