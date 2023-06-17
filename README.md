@@ -12,6 +12,28 @@ The back-end typically consists of a web server that receives requests from the 
 The back-end also deals with user authentication, security, and other server-side operations. It may involve components like databases, server software, application logic, and external services or APIs.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 2).
 Structural Tags:
   Structural tags define the overall structure and layout of the web page.
@@ -24,17 +46,17 @@ Paragraph Tags:
   example: <p>This is a paragraph.</p>
 Link Tags:
   Link tags define hyperlinks to other web pages or resources.
-  example: <a href="https://www.google.com">google</a>
+  example: <a #href="https://www.google.com">google</a>
 Image Tags:
   Image tags define and display images on a web page.
-  example: <img src="image.jpg" alt="image">
+  example: <img #src="image.jpg" alt="image">
 Form Tags:
   Form tags define interactive forms for user input, such as text fields, checkboxes, and buttons.
   example: 
    <form>
-     <label for="name">Name:</label>
-     <input type="text" id="name">
-     <button type="submit">Submit</button>
+      label for="name">Name:</label>
+      input type="text" id="name">
+      button type="submit">Submit</button>
    </form>
 Table Tags:
   Table tags define tables to display tabular data.
